@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+pydub
+moviepy
+noisereduce
+faster-whisper
+torch
+torchaudio
+webrtcvad
